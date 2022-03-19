@@ -1,1 +1,1 @@
-# CheckMate
+# CheckMate by Ade
